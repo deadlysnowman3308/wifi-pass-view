@@ -2,12 +2,15 @@
 .--.--.--.|__|.'  _|__|______|   __ \.---.-.-----.-----.______|   |   |__|.-----.--.--.--.
 |  |  |  ||  ||   _|  |______|    __/|  _  |__ --|__ --|______|   |   |  ||  -__|  |  |  |
 |________||__||__| |__|      |___|   |___._|_____|_____|       \_____/|__||_____|________|
-                                                                                          
+
+
+### wifi-pass-view is a password recover tool that allows you to get saved wifi passwords from your pc
+
+
+
 
 # LINUX
 
-
-wifi-pass-view is a password recover tool that allows you to get saved wifi passwords from your pc
 
 **### Installation ###**
 
