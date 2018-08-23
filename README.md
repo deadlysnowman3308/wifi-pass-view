@@ -11,15 +11,15 @@ wifi-pass-view is a password recover tool that allows you to get saved wifi pass
 
 **### Installation ###**
 
-# sudo https://github.com/hackingvila/wifi-pass-view.git
-# cd wifi-pass-view
-# sudo chmod 777 *.sh
-# sudo make install
+sudo https://github.com/hackingvila/wifi-pass-view.git
+ cd wifi-pass-view
+ sudo chmod 777 *.sh
+ sudo make install
 
 **###  Uninstall  ###**
 
-# cd <git clone location>
-# sudo make uninstall
+ cd <git clone location>
+ sudo make uninstall
 
 
 Example: ./wifi-pass-view.sh -all
@@ -31,11 +31,11 @@ just run the batch file
 how to run:>>
 ................
 
-# first run the batch file
-# type your name
-# press enter
-# now you can see all the saved wifi ssid/name
-# type the wifi name now you can see the saved password
+ first run the batch file
+ type your name
+ press enter
+ now you can see all the saved wifi ssid/name
+ type the wifi name now you can see the saved password
 
 
 
