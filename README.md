@@ -4,12 +4,12 @@
 |________||__||__| |__|      |___|   |___._|_____|_____|       \_____/|__||_____|________|
 
 
-### wifi-pass-view is a password recover tool that allows you to get saved wifi passwords from your pc
+## wifi-pass-view is a password recover tool that allows you to get saved wifi passwords from your pc
 
 
 
 
-# LINUX
+## LINUX
 
 
 **### Installation ###**
@@ -27,7 +27,7 @@ sudo https://github.com/hackingvila/wifi-pass-view.git
 
 Example: ./wifi-pass-view.sh -all
 
-# WINDOWS
+## WINDOWS
 
 just run the batch file
 
