@@ -12,15 +12,15 @@
 ## LINUX
 
 
-**### Installation ###**
+**# Installation #**
 
-sudo https://github.com/hackingvila/wifi-pass-view.git
+## sudo https://github.com/hackingvila/wifi-pass-view.git
 *
-cd wifi-pass-view
+## cd wifi-pass-view
 *
- sudo chmod 777 *.sh
+## sudo chmod 777 *.sh
 *
- sudo make install
+## sudo make install
 *
 **###  Uninstall  ###**
 
