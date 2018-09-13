@@ -4,7 +4,7 @@
 |________||__||__| |__|      |___|   |___._|_____|_____|       \_____/|__||_____|________|
 
 
-## wifi-pass-view is a password recover tool that allows you to get saved wifi passwords from your pc
+## wifi-pass-view is a password recovery tool that allows you to get saved wifi passwords from your pc
 
 
 
