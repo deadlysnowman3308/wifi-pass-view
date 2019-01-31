@@ -1,39 +1,6 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFDpaRQ+HKFeeCaIS5Of66/m7tUQbXd1sKdeWi+HZc64a6UqE
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpSI=
-::dAsiuh18IRvcCxnZtBNQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZko0
-::ZQ05rAF9IBncCkqN+0xwdVsFAlXi
-::ZQ05rAF9IAHYFVzEqQIHIR1dARSDL3j3ELwZ/4g=
-::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
-::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
-::cRolqwZ3JBvQF1fEqQJQ
-::dhA7uBVwLU+EWHGF90k5JhxCRQiDXA==
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATElA==
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFDpaRQ+HKFeeA6YX/Ofr092OpERTUfo6GA==
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 cls
 @echo off
-title Wifi Password Viewer (Aniket)
+title Wifi Password Viewer (Made by Aniket)
 set /p name=Enter Your Name  :  
 cls
 :again
@@ -64,8 +31,13 @@ echo.
 
 pause
 netsh wlan show profiles
+echo Please Type the WIFI name in double inverted comma
+echo etc: "test" or "Wifi name"
+echo.
+echo.
 set /p choice=Please type the Wifi name for view password:
 netsh wlan show profile %choice% key=clear
+echo Press any key
 pause >nul                              
 echo.
 echo.
