@@ -32,7 +32,7 @@
  sudo make uninstall<br/><br/><br/>
 
 
-./wifi-pass-view.sh -all<br/><br/><br/>
+**./wifi-pass-view.sh -all<br/><br/><br/>**
 
 ## WINDOWS<br/>
 
