@@ -6,7 +6,7 @@
 
 -->
 
-## wifi-pass-view is a password recovery tool that allows you to get saved wifi passwords from your pc
+## Wifi-pass-view is a password recovery tool that allows you to get saved wifi passwords from your pc
 
 
 ```
