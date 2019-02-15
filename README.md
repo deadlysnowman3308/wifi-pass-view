@@ -9,7 +9,7 @@
 ## wifi-pass-view is a password recovery tool that allows you to get saved wifi passwords from your pc
 
 
-
+```
 
 ## LINUX
 
@@ -33,6 +33,7 @@
 
 
 **./wifi-pass-view.sh -all<br/><br/><br/>**
+```
 
 ## WINDOWS<br/>
 
