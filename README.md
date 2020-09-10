@@ -14,7 +14,7 @@
 ## LINUX
 
 
-**# Installation #**
+### Installation: ###
 
 ## sudo https://github.com/deadlysnowman3308/wifi-pass-view.git
 
@@ -25,12 +25,13 @@
 ## sudo make install
 ```
 
-
-**###  Uninstall  ###**
+```sh
+###  Uninstall  ###
 
  cd <git clone location>
  sudo make uninstall
-
+```
+```sh
 
 **./wifi-pass-view.sh -all**
 ```
@@ -38,7 +39,7 @@
 ## WINDOWS
 
 just run the batch file
-
+```sh
 how to run:>>
 ................
 
@@ -48,6 +49,6 @@ how to run:>>
  now you can see all the saved wifi ssid/name
  type the wifi name now you can see the saved password
 
-
+```
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!   ENJOY   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
