@@ -9,45 +9,45 @@
 ## Wifi-pass-view is a password recovery tool that allows you to get saved wifi passwords from your pc
 
 
-```
+```sh
 
 ## LINUX
 
 
-**# Installation #**<br/>
+**# Installation #**
 
-## sudo https://github.com/deadlysnowman3308/wifi-pass-view.git<br/><br/>
-<br>
-## cd wifi-pass-view<br/>
-<br>
-## sudo chmod 777 *.sh<br/>
-<br>
-## sudo make install<br/>
-<br/><br/><br/>
+## sudo https://github.com/deadlysnowman3308/wifi-pass-view.git
+
+## cd wifi-pass-view
+
+## sudo chmod 777 *.sh
+
+## sudo make install
+```
 
 
 **###  Uninstall  ###**
 
- cd <git clone location><br/>
- sudo make uninstall<br/><br/><br/>
+ cd <git clone location>
+ sudo make uninstall
 
 
-**./wifi-pass-view.sh -all<br/><br/><br/>**
+**./wifi-pass-view.sh -all**
 ```
 
-## WINDOWS<br/>
+## WINDOWS
 
-just run the batch file<br/>
+just run the batch file
 
-how to run:>><br/>
-................<br/><br/>
+how to run:>>
+................
 
- first run the batch file<br/>
- type your name<br/>
- press enter<br/>
- now you can see all the saved wifi ssid/name<br/>
- type the wifi name now you can see the saved password<br/>
+ first run the batch file
+ type your name
+ press enter
+ now you can see all the saved wifi ssid/name
+ type the wifi name now you can see the saved password
 
 
-<br/><br/><br/>
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!   ENJOY   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
