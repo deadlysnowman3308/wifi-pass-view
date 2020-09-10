@@ -9,11 +9,11 @@
 ## Wifi-pass-view is a password recovery tool that allows you to get saved wifi passwords from your pc
 
 
+
+
+## Linux
+
 ```sh
-
-## LINUX
-
-
 ### Installation: ###
 
 $ sudo https://github.com/deadlysnowman3308/wifi-pass-view.git
